@@ -1,0 +1,348 @@
+{
+    "de": {
+        "styles": {
+            "bg": "#362c42",
+            "lang-select-color": "#c3f6c8",
+            "bg-light": "#362c42",
+            "welcome-bonus-bg": "#131017",
+            "top-games-hover-fg": "#0adb1f",
+            "main-bg": "#131017",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#362c42",
+            "text-head": "#ffffff",
+            "hero-title-text": "#ffcd02",
+            "welcome-bonus-text": "#0adb1f",
+            "yellow": "#ffcd02",
+            "yellow-button": "#18ed93",
+            "button-text": "#362c42",
+            "border-color": "#5e5668",
+            "casino-cards": "#201a27",
+            "bonus-border-head": "#5e5668",
+            "bonus-border": "#5e5668",
+            "pay-back": "#201a27",
+            "providers-back": "#201a27",
+            "faq-label": "#201a27",
+            "bg-footer": "#362c42",
+            "copyright": "#7b7482",
+            "starColor": "#ffcd02",
+            "baseFont": {
+                "value": "http:\/\/159.223.4.88:8000\/api\/fonts\/download\/11",
+                "isCustom": true
+            },
+            "primaryFont": {
+                "value": "http:\/\/159.223.4.88:8000\/api\/fonts\/download\/8",
+                "isCustom": true
+            }
+        },
+        "seo": {
+            "name": "Paf Casino Sverige",
+            "title": "RockySpin Casino Deutschland \u2013 Sichere Spiele, schnelle Auszahlungen",
+            "description": "RockySpin Casino Deutschland bietet erstklassige Spielautomaten, Live-Dealer und Krypto-Zahlungen f\u00fcr Echtgeldspiele. Melden Sie sich noch heute an und entdecken Sie riesige Boni und exklusive Funktionen.",
+            "canonical": "https:\/\/rockyspinonline.com\/de",
+            "ogImage": "http:\/\/159.223.4.88:8000\/api\/images\/download\/97",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "@rockyspincasino",
+            "favicon": "http:\/\/159.223.4.88:8000\/api\/images\/download\/98",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "http:\/\/159.223.4.88:8000\/api\/images\/download\/99"
+        },
+        "header": {
+            "logo": "http:\/\/159.223.4.88:8000\/api\/images\/download\/100",
+            "logoAlt": "Logo"
+        },
+        "nav": {
+            "signUp": "Einloggen",
+            "playNow": "Anmelden"
+        },
+        "hero": {
+            "title": "Willkommens bonus",
+            "textDesktop": "Exklusives Willkommensangebot von",
+            "textMobile": "Exklusiver Willkommensbonus von",
+            "playGame": "Play game",
+            "claimBonus": "Bonus beanspruchen",
+            "image": "http:\/\/159.223.4.88:8000\/api\/images\/download\/101",
+            "mobileImage": "http:\/\/159.223.4.88:8000\/api\/images\/download\/102"
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Bonus einfordern",
+            "title": "Top-Kasinos",
+            "allCasino": "Alle Kasinos",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus-Details",
+            "getBonusButtonText": "Bonus erhalten",
+            "maximumAmountText": "Maximaler Betrag",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus-Code",
+            "casino": "Kasino",
+            "bonuses": "Boni",
+            "rate": "Rate",
+            "freeSpins": "Frei Spins",
+            "moreInfo": "Mehr Info",
+            "get": "Get",
+            "refresh": "Aktualisieren"
+        },
+        "advantages": {
+            "title": "Vorteile",
+            "advantagesBeforeText": "",
+            "items": [
+                "Vielf\u00e4ltige Auswahl an Spielautomaten, Tischspielen und Live-Dealer-Spielen",
+                "Mobile-freundliche, intuitive Website",
+                "Mehrere Zahlungsoptionen, einschlie\u00dflich Kryptow\u00e4hrungen",
+                "Attraktive Willkommensboni und laufende Aktionen",
+                "Lizenzen und Vorschriften f\u00fcr die Sicherheit der Spieler",
+                "Verbesserte Sicherheit durch Zwei-Faktor-Authentifizierung"
+            ],
+            "advantagesAfterText": "",
+            "knowMore": "Mehr wissen",
+            "appTitle": "RockySpin Casino APP",
+            "mobile": "http:\/\/159.223.4.88:8000\/api\/images\/download\/103",
+            "mobileAlt": "RockySpin Casino Deutschland Mobile",
+            "mobileGooglePlayImageTitle": "RockySpin Casino Deutschland im Google Play",
+            "mobileIosImageTitle": "RockySpin Casino Deutschland im App Store"
+        },
+        "games": {
+            "playNowText": "Jetzt spielen",
+            "title": "Top-Spiele",
+            "allGames": "Alle Spiele"
+        },
+        "about": {
+            "history": {
+                "title": "RockySpin Casino",
+                "description1": "",
+                "items": [
+                    "300 Freispiele",
+                    "50 % Einzahlungsbonus bis zu 1.000 \u20ac",
+                    "25 % Reload-Bonus bis zu 100 \u20ac"
+                ],
+                "description2": "RockySpin Casino bietet sicheres und unterhaltsames Online-Gl\u00fccksspiel. Das Casino ist weltweit lizenziert und reguliert. Es bietet Spielautomaten, Tischspiele und Live-Dealer von f\u00fchrenden Softwareunternehmen. Die Website verf\u00fcgt \u00fcber ein modernes, benutzerfreundliches Design, das sowohl auf Desktop- als auch auf Mobilger\u00e4ten funktioniert, sodass Sie von \u00fcberall darauf zugreifen k\u00f6nnen. Willkommensboni und regelm\u00e4\u00dfige Angebote f\u00fcr verschiedene Spielarten sind verf\u00fcgbar. RockySpin Casino akzeptiert g\u00e4ngige E-Wallets und Kryptow\u00e4hrungen f\u00fcr schnelle und sichere Transaktionen.",
+                "image": "http:\/\/159.223.4.88:8000\/api\/images\/download\/104",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "RockySpin Casino Deutschland Desktop",
+                "description3": ""
+            },
+            "connect": {
+                "title": "Anmeldeprozess bei RockySpin Casino",
+                "description1": "Die Erstellung eines Kontos bei RockySpin Casino ist einfach und schnell. Die Plattform ist so eingerichtet, dass neue Benutzer schnell durch alle Phasen gef\u00fchrt werden, damit sie sofort mit dem Spielen beginnen k\u00f6nnen. Hier sind die wichtigsten Schritte des Anmeldeprozesses:",
+                "items": [
+                    "Besuchen Sie die Website von RockySpin Casino.",
+                    "Klicken Sie auf \u201eAnmelden\u201d oder \u201eRegistrieren\u201d.",
+                    "Best\u00e4tigen Sie Ihre E-Mail-Adresse und erstellen Sie ein sicheres Passwort.",
+                    "Geben Sie Ihren vollst\u00e4ndigen Namen, Ihr Geburtsdatum und Ihre Adresse an.",
+                    "W\u00e4hlen Sie eine W\u00e4hrung und \u00fcberpr\u00fcfen Sie die Bedingungen.",
+                    "F\u00fcllen Sie die Registrierung aus.",
+                    "Best\u00e4tigen Sie das Konto per E-Mail oder SMS."
+                ],
+                "description2": ""
+            },
+            "deposit1": {
+                "title": "\u00dcber die Anmeldung bei RockySpin Casino",
+                "description1": "Die Anmeldung bei RockySpin Casino ist schnell und sicher und erm\u00f6glicht es wiederkehrenden Spielern, sich anzumelden. Klicken Sie oben rechts auf der Startseite der offiziellen Website auf die Schaltfl\u00e4che \u201eAnmelden\u201d, um zu beginnen. Sie werden dann aufgefordert, Ihre registrierte E-Mail-Adresse und Ihr Passwort einzugeben. Das System \u00fcberpr\u00fcft die Anmeldedaten und entsperrt das Dashboard des Spielers. Von dort aus k\u00f6nnen Kunden ihre Kontoeinstellungen \u00e4ndern, Geld einzahlen oder abheben und ihre Lieblingsspiele spielen. RockySpin Casino kann insbesondere beim Zugriff auf das Konto von einem neuen Ger\u00e4t aus eine Zwei-Faktor-Authentifizierung oder Sicherheits\u00fcberpr\u00fcfung verlangen, um die Sicherheit zu erh\u00f6hen.",
+                "items": [],
+                "description2": ""
+            },
+            "deposit2": {
+                "title": "",
+                "description1": "",
+                "items": [],
+                "description2": ""
+            }
+        },
+        "payMethod": {
+            "title": "Zahlungsmethoden",
+            "paymentMethodsButtonText": "Einzahlung",
+            "method": "Methode",
+            "type": "Typ",
+            "country": "Land",
+            "commission": "Kommission",
+            "processingTime": "Bearbeitungszeit",
+            "minimumDeposit": "Mindesteinlage",
+            "deposit": "Einzahlung"
+        },
+        "security": {
+            "title1": "Software-Technologien",
+            "description1": "RockySpin Casino bietet Spiele von f\u00fchrenden Anbietern wie Amatic, BetSoft, Endorphina, Microgaming, BGaming, Pragmatic Play, Evolution, NetEnt und vielen mehr. Diese Anbieter verwenden hochwertige Grafiken, fl\u00fcssige Animationen, konsistente Leistung und faire Zufallsgeneratoren, um faire Spiele zu gew\u00e4hrleisten.",
+            "title2": "Sicherheit",
+            "description2": "Alle Spielerdaten und Zahlungsvorg\u00e4nge bei RockySpin werden zur Gew\u00e4hrleistung der Privatsph\u00e4re mit SSL verschl\u00fcsselt. Das Casino setzt KYC und AML gem\u00e4\u00df der Cura\u00e7ao-Lizenz von Terdersoft B.V. durch. Vor einer Auszahlung kann eine \u00dcberpr\u00fcfung der Identit\u00e4t und der Adresse durch die Regierung erforderlich sein."
+        },
+        "softwareProviders": {
+            "title": "Software-Anbieter"
+        },
+        "application": {
+            "title": "Casino-App",
+            "description1": "RockySpin verf\u00fcgt \u00fcber keine Android- und iOS-Apps. Die Online-Oberfl\u00e4che ist vollst\u00e4ndig f\u00fcr Smartphones und Tablets optimiert. Au\u00dferdem wird die browserbasierte PWA-Installation unterst\u00fctzt.",
+            "image": "http:\/\/159.223.4.88:8000\/api\/images\/download\/105",
+            "imageSizeModifier": 20,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "imageAlt": "RockySpin Casino Deutschland Mobile"
+        },
+        "idioma": {
+            "title1": "W\u00e4hrungen",
+            "description1": "EUR, BRL, CAD, NOK, NZD, CZK, ZAR, BGN, HRK, RON, AUD, BTC und andere Kryptow\u00e4hrungen k\u00f6nnen gehalten und eingesetzt werden. Intern wird Euro verwendet, Einzahlungen in anderen W\u00e4hrungen werden zu wettbewerbsf\u00e4higen Kursen umgerechnet.",
+            "title2": "Sprachen",
+            "description2": "Um Spielern aus vielen L\u00e4ndern gerecht zu werden, unterst\u00fctzt das Casino Englisch, Deutsch, Franz\u00f6sisch, Italienisch, Spanisch, Portugiesisch, Griechisch, Tschechisch, Ungarisch, Niederl\u00e4ndisch, Polnisch, Slowakisch, Slowenisch, Bulgarisch, Rum\u00e4nisch und andere Sprachen."
+        },
+        "faq": {
+            "title": "CASINO-FAQ",
+            "items": [
+                {
+                    "title": "Was ist der Mindestauszahlungsbetrag bei RockySpin Casino?",
+                    "answer": "Der Mindestauszahlungsbetrag betr\u00e4gt 50 \u20ac, abh\u00e4ngig von der gew\u00e4hlten Zahlungsmethode."
+                },
+                {
+                    "title": "Bietet RockySpin Casino Turniere an?",
+                    "answer": "Normale Pokerturniere haben Preispools und Ranglisten f\u00fcr aktive Spieler."
+                },
+                {
+                    "title": "Fallen Geb\u00fchren f\u00fcr Ein- oder Auszahlungen an?",
+                    "answer": "RockySpin Casino erhebt keine Geb\u00fchren f\u00fcr Transaktionen, jedoch k\u00f6nnen Zahlungsabwickler, die nicht zum Casino geh\u00f6ren, Geb\u00fchren erheben."
+                },
+                {
+                    "title": "Kann ich Einzahlungs- oder Verlustlimits f\u00fcr mein Konto festlegen?",
+                    "answer": "Mit Tools f\u00fcr verantwortungsbewusstes Spielen k\u00f6nnen Spieler Einzahlungen, Verluste, Spielsitzungen und Eins\u00e4tze begrenzen."
+                }
+            ]
+        },
+        "availableGames": {
+            "title": "Spiele, die im RockySpin Casino gespielt werden k\u00f6nnen",
+            "description": "\u00dcber 6.000 Spiele machen das RockySpin Casino zu einer f\u00fchrenden Wahl f\u00fcr Spieler, die Vielfalt und Qualit\u00e4t suchen. Die Plattform nutzt Playson, NetEnt, BGaming, Evolution und Pragmatic Play f\u00fcr reibungsloses Spielen und hochwertige Grafiken in allen Genres.",
+            "column1": [
+                {
+                    "title": "Pokies",
+                    "description": "Es gibt Tausende von 3-Walzen- und Video-Pokies mit Bonusrunden und interaktiven Elementen f\u00fcr Menschen, die Pokie-Spiele lieben. Viele Spiele verf\u00fcgen \u00fcber Megaways, kaskadierende Walzen und expandierende Wilds. Jackpot-Pokies mit progressiven Preispools oder hoher Volatilit\u00e4t zahlen mehr Geld aus, aber nicht so oft. Markenbezogene Inhalte, saisonale Themen und neue Formate stehen allen Pokie-Spielern zur Verf\u00fcgung. Gelegenheitsspieler und High Roller finden in dieser gro\u00dfen Auswahl sicher Spiele, die ihrem Stil und Budget entsprechen."
+                },
+                {
+                    "title": "Blackjack",
+                    "description": "RockySpin Casino ist mit \u00fcber 400 Spielen eine der gr\u00f6\u00dften Online-Blackjack-Sammlungen. Spieler k\u00f6nnen European und American Blackjack oder Super 7, Multihand und VIP-Tische spielen. Diese Spiele eignen sich aufgrund ihres Designs, ihrer Geschwindigkeit und ihrer Einsatzlimits sowohl f\u00fcr Anf\u00e4nger als auch f\u00fcr erfahrene Spieler, die auf hohe Eins\u00e4tze aus sind. Die meisten Blackjack-Spiele verf\u00fcgen \u00fcber eine einfache Steuerung, klare Regeln und Ergebnisse in Echtzeit, um ein faires und einheitliches Erlebnis auf allen Plattformen zu gew\u00e4hrleisten."
+                },
+                {
+                    "title": "Roulette",
+                    "description": "\u00dcber 80 Roulette-Spiele verbinden Geschichte und Innovation. Immersive, Zoom, Lucky und Maxi Roulette sind auf der Website verf\u00fcgbar, ebenso wie europ\u00e4ische, franz\u00f6sische und amerikanische Versionen. Mehrere Blickwinkel, dynamische Statistiken und zus\u00e4tzliche Nebenwetten erh\u00f6hen den Spielspa\u00df. Die Nutzer k\u00f6nnen aus einer Vielzahl von Optionen ihre Radkonfiguration, Wettmethode und Auszahlungsstruktur w\u00e4hlen. Die Spieler k\u00f6nnen in ihrem eigenen Tempo mit einfachen Rot\/Schwarz-Wetten oder raffinierten Kombinationen spielen."
+                },
+                {
+                    "title": "Baccarat",
+                    "description": "RockySpin Casino unterst\u00fctzt Baccarat-Fans mit 90 Spielen. Classic, VIP, Pro, Peek und Lightning Baccarat sind verf\u00fcgbar. Um das Interesse der Spieler zu wecken, verf\u00fcgen viele dieser Spiele \u00fcber konfigurierbare Limits und Nebenwetten. Spieler, die Kartentricks und schnelle Action m\u00f6gen, werden RockySpin Baccarat lieben. Die Spieler k\u00f6nnen je nach Vorliebe zwischen RNG- und Live-Dealer-Formaten w\u00e4hlen."
+                }
+            ],
+            "column2": [
+                {
+                    "title": "Poker & Tischspiele",
+                    "description": "Das Casino bietet neben Blackjack und Baccarat mehrere Poker- und Tischspiele an. Caribbean Stud Poker, Texas Hold'em, Oasis Poker, Crystal Poker und Bonus Poker haben variable Handrangfolgen und Einsatzstrukturen. Craps und Red Dog erg\u00e4nzen das Angebot und bieten Spielern mehr skillbasierte Erfahrungen. Diese Spiele verf\u00fcgen \u00fcber einfache Anleitungen und anpassbare Eins\u00e4tze f\u00fcr Gelegenheitsspieler und erfahrene Spieler."
+                },
+                {
+                    "title": "Live-Casino",
+                    "description": "Professionelle Dealer und HD-\u00dcbertragungen sorgen f\u00fcr ein immersives Live-Casino-Erlebnis bei RockySpin. Evolution und andere f\u00fchrende Studios bieten Live-Blackjack, Roulette, Baccarat und Spielshow-Erlebnisse. Dealer und andere Spieler k\u00f6nnen den Spielern helfen, in Echtzeit kluge Entscheidungen zu treffen. Die Tische verf\u00fcgen h\u00e4ufig \u00fcber anpassbare Kamerawinkel, Einsatzbeschr\u00e4nkungen und mehrsprachige Unterst\u00fctzung. Diese Kategorie ist ideal f\u00fcr Spieler, die von zu Hause oder unterwegs aus spielen und den Nervenkitzel eines echten Casinos erleben m\u00f6chten."
+                },
+                {
+                    "title": "Sofortgewinne, Rubbellose, Keno und Lotto",
+                    "description": "RockySpin bietet viele Schnellgewinnspiele f\u00fcr schnelle Ergebnisse und einfaches Gameplay. Mit lebendigen Mustern und einfacher Physik liefern Rubbellose schnelle Ergebnisse. Zahlenbasierte Keno- und Lottospiele mit zuf\u00e4lligen Ziehungen und festen Quoten sorgen f\u00fcr Abwechslung. Gelegenheitsspieler oder diejenigen, die eine Pause zwischen den Spielen machen m\u00f6chten, werden diese Spiele m\u00f6gen. Der Sofortgewinnbereich bietet Echtgeldgewinne und sofortigen Nervenkitzel und ist eine stressfreie Alternative zu schwierigeren Spielen."
+                }
+            ]
+        },
+        "support": {
+            "title": "Support",
+            "description1": "Der Support ist rund um die Uhr per E-Mail und Live-Chat verf\u00fcgbar. Der Live-Chat wird zun\u00e4chst von einem KI-Bot bedient, kann aber auch von Menschen genutzt werden. Die wichtigsten Sprachen wie Englisch, Franz\u00f6sisch, Italienisch, Deutsch, Portugiesisch, T\u00fcrkisch, Polnisch, Spanisch und weitere werden unterst\u00fctzt.",
+            "items": [],
+            "description2": "",
+            "image": "http:\/\/159.223.4.88:8000\/api\/images\/download\/106",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "imageAlt": "Support"
+        },
+        "bonuses": {
+            "title": "RockySpin Casino Boni und Aktionen",
+            "description": "RockySpin Casino bietet organisierte und vorteilhafte Aktionen f\u00fcr neue und regelm\u00e4\u00dfige Spieler. Das Bonussystem ist gestaffelt, von Ersteinzahlungen \u00fcber w\u00f6chentliche Aufladungen bis hin zu Treuepr\u00e4mien.",
+            "column1": [
+                {
+                    "title": "Willkommensbonus",
+                    "description": "RockySpin Casino bietet ein Willkommenspaket mit vier Einzahlungen. Spieler k\u00f6nnen 5.000 \u20ac Bonusgeld und 300 Freispiele erhalten. Dieses Paket bietet Neulingen ein gutes Startguthaben und mehrere Chancen, die vielen Spiele der Plattform zu spielen. Je nach Einzahlungsreihenfolge erh\u00f6hen oder verringern sich die Freispiele und Match-Prozents\u00e4tze mit jeder Einzahlung. Fordern Sie das Willkommensgeschenk in der richtigen Reihenfolge an und setzen Sie jeden Bonus, um den n\u00e4chsten Schritt freizuschalten."
+                },
+                {
+                    "title": "Ersteinzahlungsbonus",
+                    "description": "Der Ersteinzahlungsbonus von RockySpin Casino betr\u00e4gt 100 % bis zu 1.000 \u20ac und 100 Freispiele. Nach der ersten Einzahlung und Erreichen des Mindestbetrags wird dieser Bonus sofort gutgeschrieben."
+                },
+                {
+                    "title": "Zweiteinzahlungsbonus",
+                    "description": "Spieler erhalten 50 Freispiele und einen 50 %-Bonus auf ihre zweite Einzahlung, bis zu 1.000 \u20ac. Der Bonus ist verf\u00fcgbar, wenn das erste Angebot genutzt wurde und die zweite Einzahlung den Limit erreicht hat."
+                },
+                {
+                    "title": "Dritter Einzahlungsbonus",
+                    "description": "Bei der dritten Einzahlung schenkt Ihnen RockySpin Casino 50 Freispiele und einen 50 %-Bonus bis zu 1.500 \u20ac. Dieser Anreiz erh\u00f6ht die Wahrscheinlichkeit, dass Spieler teilnehmen und gr\u00f6\u00dfere Einzahlungen t\u00e4tigen."
+                },
+                {
+                    "title": "Vierter Einzahlungsbonus",
+                    "description": "Letzte H\u00e4lfte des Willkommenspakets: 75 % Bonus bis zu 1.500 \u20ac und 100 Freispiele. Die Anzahl der Freispiele und der Match-Prozentsatz sind in dieser letzten Stufe am h\u00f6chsten. Damit werden Spieler belohnt, die alle vier Ersteinzahlungen konsequent get\u00e4tigt haben."
+                },
+                {
+                    "title": "Dienstags-Reload-Bonus",
+                    "description": "Der Dienstags-Reload-Bonus bei RockySpin Casino bietet Ihnen 20 Freispiele und einen 50 %-Match auf Ihre erste Einzahlung bis zu 500 \u20ac.\nDieser w\u00f6chentliche Bonus ist f\u00fcr Personen gedacht, die das Einf\u00fchrungsangebot abgeschlossen haben und regelm\u00e4\u00dfig Einzahlungen t\u00e4tigen und spielen."
+                }
+            ],
+            "column2": [
+                {
+                    "title": "Donnerstags-Bonusangebot",
+                    "description": "Donnerstags gibt es einen 30 % Reload-Bonus bis zu 500 \u20ac. Dieser Bonus richtet sich an Spieler, die gegen Ende der Woche ihr Konto aufladen m\u00f6chten, und wird regelm\u00e4\u00dfig angeboten. RockySpin h\u00e4lt seine Spieler bei Laune und bietet ihnen zus\u00e4tzliche Dollar, um ihr Spiel zu verl\u00e4ngern, indem es \u00fcber mehrere Tage hinweg Aktionen anbietet."
+                },
+                {
+                    "title": "Freitags-Einzahlungsbonus",
+                    "description": "Der Einzahlungsbonus am Freitag betr\u00e4gt 30 % bis zu 100 \u20ac. Dieser bescheidene Anreiz richtet sich an Gelegenheitsspieler und Wochenendspieler, die einen Schub suchen. Durch die geringere Einzahlung und die k\u00fcrzere G\u00fcltigkeitsdauer ist er ideal f\u00fcr schnelle Spielsitzungen."
+                },
+                {
+                    "title": "Sonntags-Freispiele",
+                    "description": "Sonntagsaktionen bieten ausschlie\u00dflich Freispiele und variieren je nach Einzahlung. Je nach Einzahlung k\u00f6nnen Spieler 50, 100 oder 150 Freispiele erhalten. Diese Freispiele gelten f\u00fcr ausgew\u00e4hlte Spiele und m\u00fcssen innerhalb eines bestimmten Zeitraums genutzt werden."
+                },
+                {
+                    "title": "High-Roller-Bonus",
+                    "description": "Der High-Roller-Bonus von RockySpin betr\u00e4gt 50 % der Einzahlungen bis zu 500 \u20ac. Um sich zu qualifizieren, ist eine Einzahlung von 300 \u20ac erforderlich. Dieses Angebot richtet sich an erfahrene Spieler mit gr\u00f6\u00dferem Guthaben, die einen zus\u00e4tzlichen Einzahlungswert suchen."
+                },
+                {
+                    "title": "Sonntags-Reload-Aktion",
+                    "description": "Zus\u00e4tzlich zum Bonus nur f\u00fcr Freispiele bietet der Sonntag einen 25 % Reload-Bonus bis zu 100 \u20ac. Mit einer Mindesteinzahlung von 30 \u20ac bietet dieses Angebot den Kunden nach einem aktiven Wochenende einen Mehrwert."
+                }
+            ]
+        },
+        "prosAndCons": {
+            "title": "Vorteile von RockySpin Casino",
+            "description": "RockySpin Casino bietet eine gro\u00dfe Auswahl an verschiedenen Spielen, aber wie jede Plattform hat auch diese ihre Vor- und Nachteile.",
+            "pros": {
+                "title": "Vorteile",
+                "items": [
+                    "Vielf\u00e4ltige Auswahl an Spielautomaten, Tischspielen und Live-Dealer-Spielen",
+                    "Mobile-freundliche, intuitive Website",
+                    "Mehrere Zahlungsoptionen, einschlie\u00dflich Kryptow\u00e4hrungen",
+                    "Attraktive Willkommensboni und laufende Aktionen",
+                    "Lizenzen und Vorschriften f\u00fcr die Sicherheit der SpielerLizenzen und Vorschriften f\u00fcr die Sicherheit der Spieler",
+                    "Verbesserte Sicherheit durch Zwei-Faktor-Authentifizierung"
+                ]
+            },
+            "cons": {
+                "title": "Nachteile",
+                "items": [
+                    "Boni m\u00fcssen m\u00f6glicherweise umgesetzt werden.",
+                    "Spieler aus anderen L\u00e4ndern sind m\u00f6glicherweise nicht teilnahmeberechtigt.",
+                    "Einige Live-Chat-Dienste haben begrenzte \u00d6ffnungszeiten"
+                ]
+            }
+        },
+        "footer": {
+            "logo": "http:\/\/159.223.4.88:8000\/api\/images\/download\/107",
+            "copyright": "RockySpin Casino"
+        }
+    },
+    "langs": [
+        {
+            "code": "de",
+            "name": "\u041d\u0435\u043c\u0435\u0446\u043a\u0438\u0439",
+            "isDefault": true
+        }
+    ]
+}
